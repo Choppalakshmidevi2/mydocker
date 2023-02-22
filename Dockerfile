@@ -1,2 +1,2 @@
 FROM centos
-RUN echo "Testing docker" > /temp/testfile
+RUN echo "Testing docker" > /tmp/testfile
